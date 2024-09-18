@@ -1,4 +1,4 @@
-# BMI Calcilator
+# BMI Calculator
 For those who would like to check their BMI, as I am one of them. I made the BMI calcuator and also to practice Python and Jupyter Notebook. There are 2 options for the BMI count - pounds and kilograms.  
 
 I've found how to do the first part of the project and decided to make the second part by myself with kilograms. I also added new warnings in case entered values would exceed the possible range.
